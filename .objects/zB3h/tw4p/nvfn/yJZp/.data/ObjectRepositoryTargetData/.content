@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5xfczL4oiECofF-XvjrUxg" Reference="By6a3483-UWrDP1kMfuHrg/yJZp-Uq9xkqK1XKEL1y7Eg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com" DesignTimeRectangle="124, 139, 248, 46" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' data-testid='search-input' placeholder='Search' /&gt;" Guid="6a9218ba-b486-4f2b-a046-b8ff4d9670a6" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times - Breaking News, US News, World News and Videos' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
+      <imageRef attrName="InformativeScreenshot" originalValue="4794ccc039acb4992b032ce5e99cbe99.jpg" xmlns="">0fjTkCWpAkk-ZpZ-dsPoLoA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iatZFtDlD0e1lzWRBQQe0Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" DesignTimeRectangle="594, 657, 48, 72" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-role='gridcell' tag='DIV' /&gt;" Guid="7745ac18-fb51-4e2d-b8eb-4d16200f0d18" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times - Search' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="913075e6b054ceeb36657a90ad36a3ff.jpg" xmlns="">0OV9nndSvE06pBHrgwBK9-Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

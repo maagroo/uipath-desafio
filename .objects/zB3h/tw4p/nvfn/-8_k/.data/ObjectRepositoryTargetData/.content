@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eUBWMaa4zEi9VbqHf4OMiw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" DesignTimeRectangle="330, 959, 53, 20" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-label='May 7' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-label='May 7' tag='SPAN' type='' class='' matching:aria-label='fuzzy' fuzzylevel:aria-label='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="fef56621-e0d3-4b88-aa78-170986b24ab3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times - Search' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="011c7a0f00173d76ff99989ad71d5b5d.jpg" xmlns="">0yDJNdvaJqU-P52yXIDk9QQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

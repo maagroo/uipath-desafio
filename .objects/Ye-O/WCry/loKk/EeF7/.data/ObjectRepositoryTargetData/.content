@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eGVAqHMOfk-49mOEiNv5sQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" DesignTimeRectangle="482, 202, 103, 23" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='search-sections' tag='BUTTON' /&gt;" Guid="1deb39e2-49a8-4032-97a2-3eee1048f4cc" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times - Search' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9da1abd96ff78252c0d041d5b9001a31.jpg" xmlns="">0ZcejFzp7fUKAFJzh9Nv34Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

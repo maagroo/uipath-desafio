@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yFx-wuvEUkmvw0VR_IRd_A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" DesignTimeRectangle="482, 316, 59, 23" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='search-sections-label' tag='SPAN' type='' class='kyt-g7Vws' aaname='Section' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Section' /&gt;" Guid="648ab954-390a-4358-a507-50014f4feea9" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times - Search' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="482, 316, 76, 23" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='search-sections' tag='BUTTON' type='button' class='kyt-uFM6q' aaname='Section' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Section' /&gt;" Guid="47b9f64d-d283-4941-b1a7-b6ec62a59f7d" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cbb8660881dd28cdba5c9fb8963d7b91.jpg" xmlns="">0OmWx6r901kSeKSI3DJl5Fg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4Zwy1pCc4Uy7GtSCsNJCDQ" Reference="By6a3483-UWrDP1kMfuHrg/qWrMjLRfTUqQRYb9mjiEdw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" DesignTimeRectangle="330, 466, 107, 23" ElementType="Button" ElementVisibilityArgument="Visible" FuzzySelectorArgument="&lt;webctrl id='search-date-range' tag='BUTTON' type='button' class='kyt-uFM6q' aaname='Date Range' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Date Range' /&gt;" Guid="853e32e5-64d3-4d70-be41-4eab059e25f6" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times - Search' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="330, 466, 90, 23" ElementType="Text" FullSelectorArgument="&lt;webctrl id='search-date-range-label' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='search-date-range-label' tag='SPAN' type='' class='kyt-g7Vws' aaname='Date Range' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Date Range' /&gt;" Guid="de5b658f-3000-4431-815f-fb83a40a3175" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f5367a1b079617166d4381765eb72dff.jpg" xmlns="">05aMdu7ENSkqIcnIStFLuig</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

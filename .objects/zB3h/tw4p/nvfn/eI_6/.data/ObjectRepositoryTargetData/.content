@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xaOb1d3RWE6L8giSULKEdg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com" DesignTimeRectangle="1676, 807, 114, 30" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl type='' parentid='fides-accept-all-button' tag='SPAN' class='' aaname='Aceitar tudo' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Aceitar tudo' /&gt;" Guid="936c811e-3f8a-46d6-a8a7-317f747bf2bb" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times - Breaking News, US News, World News and Videos' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1571, 798, 324, 48" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='fides-accept-all-button' type='button' tag='BUTTON' class='fides-banner-button fides-banner-button-primary fides-accept-all-button' aaname='Aceitar tudo' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Aceitar tudo' /&gt;" Guid="9c00ee70-21b8-45e4-aa2c-124d17b6ea20" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0bbb24db1d92f13fa62275c56f7a2e0f.jpg" xmlns="">05Q7Xcazx7U-Ekc1DPodR-g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

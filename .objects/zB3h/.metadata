@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge chrome - Pesquisar",
+  "Type": "App",
+  "Id": "zB3ho0N4H0uCnebulZJk9Q",
+  "Reference": "By6a3483-UWrDP1kMfuHrg/zB3ho0N4H0uCnebulZJk9Q",
+  "Created": "2026-05-19T23:31:41.947926Z",
+  "Updated": "2026-05-19T23:31:41.947926Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

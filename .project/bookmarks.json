@@ -1,0 +1,26 @@
+{
+  "Value": {
+    "Dispatcher.xaml": [
+      {
+        "IsEnabled": true,
+        "Annotation": null,
+        "Id": "d31b6c7b-489a-4f45-8703-50977b855139",
+        "ActivityIdRef": "ReadRange_1",
+        "ActivityId": "1.22",
+        "ActivityName": "Read Range Workbook",
+        "IsTransient": false
+      }
+    ],
+    "Extracao_de_dados.xaml": [
+      {
+        "IsEnabled": true,
+        "Annotation": null,
+        "Id": "54442182-da67-4f3b-855c-1a7408c69a63",
+        "ActivityIdRef": "NApplicationCard_1",
+        "ActivityId": "1.2",
+        "ActivityName": "Edge The New York Times - Search(3)",
+        "IsTransient": false
+      }
+    ]
+  }
+}

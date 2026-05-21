@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XM3a1KLRBE-PQUAdi6RdkA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com" DesignTimeRectangle="47, 732, 393, 36" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='fides-banner-title' tag='DIV' /&gt;" Guid="daf0fcae-a7ad-4774-b375-76e212bb9b48" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times - Breaking News, US News, World News and Videos' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3ba70ce35fc6050a970ee89f72faa6d6.jpg" xmlns="">0lkjHiU0Xg0GK5yxknmVxhw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

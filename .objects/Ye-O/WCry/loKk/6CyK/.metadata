@@ -1,0 +1,14 @@
+﻿{
+  "Name": "World",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "6CyKCPOOwkal66LY7J0DhA",
+  "Reference": "By6a3483-UWrDP1kMfuHrg/6CyKCPOOwkal66LY7J0DhA",
+  "ParentRef": "By6a3483-UWrDP1kMfuHrg/loKkhVj4vEm0qUmVYpWISQ",
+  "Created": "2026-05-20T01:18:58.9090023Z",
+  "Updated": "2026-05-20T01:18:58.9090023Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

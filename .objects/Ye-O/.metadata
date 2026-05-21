@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge The New York Times - Search",
+  "Type": "App",
+  "Id": "Ye-OcK7WckqBWEVZu5QH1w",
+  "Reference": "By6a3483-UWrDP1kMfuHrg/Ye-OcK7WckqBWEVZu5QH1w",
+  "Created": "2026-05-20T00:06:14.3201362Z",
+  "Updated": "2026-05-20T00:06:14.3201362Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge The New York Times - Search(2)",
+  "Type": "Screen",
+  "Id": "_f8WwVZ-Hkm_Dy4Vmh7SeQ",
+  "Reference": "By6a3483-UWrDP1kMfuHrg/_f8WwVZ-Hkm_Dy4Vmh7SeQ",
+  "ParentRef": "By6a3483-UWrDP1kMfuHrg/WCryqzWX6E237mQl7cdnXA",
+  "Created": "2026-05-20T13:03:19.9939969Z",
+  "Updated": "2026-05-20T13:03:19.9939969Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

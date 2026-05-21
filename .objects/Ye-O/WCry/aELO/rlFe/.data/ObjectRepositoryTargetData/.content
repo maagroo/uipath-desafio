@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RTHxOA5ROUqAdWu7OEH34w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" DesignTimeRectangle="558, 524, 803, 29" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='site-content' tag='A' aaname='Have feedback? Take a 10 second survey to help us improve the search results.' visibleinnertext='Have feedback? Take a 10 second survey to help us improve the search results.' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='site-content' tag='A' aaname='Have feedback? Take a 10 second survey to help us improve the search results.' visibleinnertext='Have feedback? Take a 10 second survey to help us improve the search results.' type='' class='kyt-JNbCc' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:visibleinnertext='fuzzy' fuzzylevel:visibleinnertext='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:text='Have feedback? Take a 10 second survey to help us improve the search results.' /&gt;" Guid="28c9a701-435e-4783-8d85-4a9c02d6e2dd" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times - Search' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="74ecac7696713c7069cb1a09e89abd8b.jpg" xmlns="">0qrqg2N2T5kyVoBGZiWje5A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
