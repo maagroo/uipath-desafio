@@ -100,7 +100,7 @@
       <AssemblyReference>Microsoft.VisualBasic.Core</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Dispatcher" sap:VirtualizedContainerService.HintSize="1281,690" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Dispatcher" sap:VirtualizedContainerService.HintSize="618,695.3333333333334" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="sd:DataTable" Name="DT_QueueItens" />
       <Variable x:TypeArguments="x:String" Name="Reference" />
@@ -110,8 +110,8 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:ReadRange Range="{x:Null}" AddHeaders="True" DataTable="[DT_QueueItens]" DisplayName="Read Range Workbook" sap:VirtualizedContainerService.HintSize="450,227" sap2010:WorkflowViewState.IdRef="ReadRange_1" Password="{x:Null}" SheetName="Queues" WorkbookPath="C:\Users\Bento\OneDrive\Documents\UiPath\Desafio_One4Tech\Data\Input\Insumo_RPA_One4Tech.xlsx" WorkbookPathResource="{x:Null}" />
-    <ui:AddDataColumn x:TypeArguments="x:Object" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="Reference" DataTable="[DT_QueueItens]" DefaultValue="[Now.ToString(&quot;yyyy/MM/dd&quot;)]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="450,221" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_1" />
-    <ui:BulkAddQueueItems ContinueOnError="{x:Null}" DisplayName="Bulk Add Queue Items" FolderPath="Shared" sap:VirtualizedContainerService.HintSize="450,219" sap2010:WorkflowViewState.IdRef="BulkAddQueueItems_1" QueueItemsDataTable="[DT_QueueItens]" QueueName="[in_config(&quot;OrchestratorQueueName&quot;).ToString]" Result="{x:Null}" TimeoutMS="{x:Null}" />
+    <ui:ReadRange Range="{x:Null}" AddHeaders="True" DataTable="[DT_QueueItens]" DisplayName="Read Range Workbook" sap:VirtualizedContainerService.HintSize="450,229.33333333333334" sap2010:WorkflowViewState.IdRef="ReadRange_1" SheetName="Queues" WorkbookPath="[in_config(&quot;PastaInput&quot;).ToString+in_config(&quot;ArquivoInput&quot;).ToString]" />
+    <ui:AddDataColumn x:TypeArguments="x:Object" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="Reference" DataTable="[DT_QueueItens]" DefaultValue="[Now.ToString(&quot;yyyy/MM/dd&quot;)]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="450,223.33333333333334" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_1" />
+    <ui:BulkAddQueueItems TimeoutMS="{x:Null}" DisplayName="Bulk Add Queue Items" FolderPath="Shared" sap:VirtualizedContainerService.HintSize="450,220" sap2010:WorkflowViewState.IdRef="BulkAddQueueItems_1" QueueItemsDataTable="[DT_QueueItens]" QueueName="[in_config(&quot;OrchestratorQueueName&quot;).ToString]" />
   </Sequence>
 </Activity>
